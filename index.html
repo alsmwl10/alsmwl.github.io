@@ -4,15 +4,17 @@ pagination:
   enabled: true
 ---
 <!-- The main content area -->
+<main class="content">
+  <section class="intro">
+    <div class="container">
+      <h2>About me.</h2>
+      <p>{{ site.description }}</p>
+    </div>
+  </section>
+</main>
 <div class="posts">
   <div class="grid-xlarge">
-    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-  		<section class="intro">
-  			<div class="container">
-  				<h2>About me.</h2>
-  				<p>{{ site.description }}</p>
-  			</div>
-  		</section>
+    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>\
 
       {% for post in paginator.posts %}
 
