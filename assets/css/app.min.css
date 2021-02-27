@@ -3668,7 +3668,7 @@ footer, main {
   }
 }
 
-@media (min-width: 32em) {
+@media all and (min-width:768px) and (max-width:1080px) {
   .content {
     margin-top: 17.5% !important;
   }
