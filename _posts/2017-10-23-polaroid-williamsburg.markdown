@@ -2,6 +2,7 @@
 layout: post
 title: "Polaroid Williamsburg"
 date: 2017-10-23
+cate: 유지보수
 description:
 image: /assets/images/cncicd2.jpg
 author: Thomas Vaeth
