@@ -3667,3 +3667,9 @@ footer, main {
     margin-top: 26% !important;
   }
 }
+
+@media (min-width: 32em) {
+  .content {
+    margin-top: 17.5% !important;
+  }
+}
