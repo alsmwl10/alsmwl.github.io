@@ -3674,6 +3674,12 @@ footer, main {
   }
 }
 
+@media all and (min-width:375px) and (max-width:640px) {
+  .content {
+    margin-top: 27.5% !important;
+  }
+}
+
 /* Mobile First */
  
 @media (min-width: 640px) {
