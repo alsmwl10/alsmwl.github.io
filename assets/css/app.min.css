@@ -3664,6 +3664,6 @@ footer, main {
 
 @media (max-width: 375px) {
   .content {
-    margin-top: 26%;
+    margin-top: 26% !important;
   }
 }
