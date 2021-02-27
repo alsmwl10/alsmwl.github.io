@@ -3702,3 +3702,9 @@ footer, main {
     margin-left:3.5%  !important;
   }
 }
+
+@media (min-width: 1450px) {
+  .container{
+    margin-left:10.5%  !important;
+  }
+}
