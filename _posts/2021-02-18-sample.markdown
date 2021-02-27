@@ -2,6 +2,7 @@
 layout: post
 title: 월드비전 "위기의 아이들을 돕는 정기후원" 프로모션
 date: 2019-07-01
+cate: 제안시안
 description:
 image: /assets/images/cncicd3.jpg
 author: 방승화
