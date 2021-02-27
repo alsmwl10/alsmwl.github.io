@@ -3690,6 +3690,6 @@ footer, main {
  
 @media (min-width: 1024px) {
   .content {
-    margin-top: 12.5% !important;
+    margin-top: 10% !important;
   }
 }
